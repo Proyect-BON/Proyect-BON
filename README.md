@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Proyect-BON
+- 👋 Hi, I’m @BON
 - 🌮 I'm from MEXICO 
 - 👀 I’m interested in developing Apps and create WEB sites 
 - 🌱 I’m currently learning Phyton and php
